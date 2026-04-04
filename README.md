@@ -173,7 +173,7 @@ PRs welcome! Add tools that are actively maintained and genuinely useful.
 ## Author
 
 **Aleksej Spinov** — AI & Automation Engineer
-- 🌐 [Portfolio](https://spinov001-art.github.io)
+- 🌐 📧 **spinov001@gmail.com** — custom quote in 2 hours
 - 💻 [GitHub](https://github.com/spinov001-art) — 280+ open source repos
 - 📧 spinov001@gmail.com
 
