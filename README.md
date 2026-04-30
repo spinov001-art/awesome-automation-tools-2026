@@ -101,6 +101,7 @@
 - [Later](https://later.com) — Social media scheduling
 - [Typefully](https://typefully.com) — Twitter/X thread scheduler
 - [Publer](https://publer.io) — Multi-platform posting
+- [Cyber Collector](https://t.me/cybercollectorbot) — Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos. No signup, no ads. [Website](https://cybercollector.hitkey.io)
 
 ## Data Pipeline Automation
 
